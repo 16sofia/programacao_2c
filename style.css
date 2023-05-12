@@ -3,6 +3,7 @@ header{
     width: 1440px;
     height: 192px;
     text-align: center;
+    text-decoration-color: aliceblue;
 
     background: #0d0d0d;
     transform: matrix(1,0,0,-1,0,0);
