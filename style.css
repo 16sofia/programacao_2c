@@ -8,3 +8,15 @@
     background: #0d0d0d;
     transform: matrix(1,0,0,-1,0,0);
 }
+
+.titulocab{
+    position: absolute;
+    width: 528px;
+    height: 55px;
+    font-family:'sail';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height:55px ;
+    color:#ffffff;
+}
