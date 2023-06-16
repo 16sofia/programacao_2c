@@ -24,3 +24,20 @@
     background:#537D76;
 }
 
+.titulocorpo{]
+    position: absolute;
+    width: 565.11px;
+    heigth:85.46px;
+    font family:'manrope';
+    font style:normal;
+    font weight:400;
+    fonte size:24px;
+    line height: 33px;
+    text alingn:center;
+
+    color:#ffffff;
+    transform:rotate(-0.31deg);
+
+}
+
+
