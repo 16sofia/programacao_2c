@@ -21,7 +21,7 @@
 }
 
 .corpo{
-    background:#537D76;
+    background-color:#537D76;
 }
 
 .titulocorpo{]
@@ -38,6 +38,32 @@
     color:#ffffff;
     transform:rotate(-0.31deg);
 
+}
+
+.texto1{
+    width: 565.111px;
+    height: 85.455px;
+    transform: rotate(-0.313deg);
+    color: #fff;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.texto2{
+    width: 344px;
+    height: 29px;
+    color: #fff;
+    font-family: inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
 }
 
 
